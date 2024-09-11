@@ -1,0 +1,4 @@
+alias ls='/bin/ls -a --color'
+alias lt='/bin/ls -alFt --color'
+alias lr='/bin/ls -alFtr --color'
+alias ll='/bin/ls -alF --color'
